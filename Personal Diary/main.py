@@ -1,6 +1,10 @@
+# Develop a personal diary application where users can write and save daily entries.
+
+
 import datetime
 import os
 import tkinter as tk
+
 
 # define a function to create a directory to store our diary entries.by using OS module 
 # to create a directory with the current date as the name.
